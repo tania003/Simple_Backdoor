@@ -1,2 +1,2 @@
 pip install socket
-pip install subprocess2
+pip install subprocess
